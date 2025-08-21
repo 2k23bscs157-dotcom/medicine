@@ -1,0 +1,10 @@
+:root {
+  --primary-color: #4CAF50; /* Green */
+  --secondary-color: #f44336; /* Red */
+  --background-color: #f4f4f4; /* Light Gray */
+  --text-color: #333; /* Dark Gray */
+  --font-family: 'Arial', sans-serif; /* Font Family */
+  --font-size: 16px; /* Base Font Size */
+  --header-height: 60px; /* Header Height */
+  --footer-height: 40px; /* Footer Height */
+}
